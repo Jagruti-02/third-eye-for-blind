@@ -1,12 +1,10 @@
-# ESP32-CAM-wireless-computer-vision-objects-detection
-ESP32 CAM wireless computer vision objects detection.
+# Object-detection using opencv 
+
+The aim of this project is to design an Arduino-based virtual device that acts as a third eye for the blind using python and C++ programming to help blind people navigate with greater comfort, speed, and confidence.The third eye for Blind task is a breakthrough that allows outwardly disabled people to move around and between different areas with speed and certainty by detecting nearby obstacles with the help of a worn band that emits ultrasonic waves that alert them with a buzz sound or any vibrations. 
+
+This allows the blind to know what obstacle is present infront of them. The object detection is done using opencv python and C++ for the blind to know what obstacle is present through the ESP-32 Cam module coded with Arduino Uno accordingly for the desired requirement. The ESP-32 captures pictures through its cam module and detects the recognized object through the captures frames respectively.Also,a text-to-speech converter code is integrated using a python code and required libraries which voices over the object which is detected through the camera. And thus the voice message is generated accordingly.
+ 
 
 
-DETECCION DE OBJETOS CON ESP32 CAM | VISION ARTIFICIAL PYTHON + OpenCV + Yolov3 (TIEMPO REAL)
 
 
-
-Se realiza con "coco" que se encuentra en el mismo directorio. En la parte de python se hace referencia en las lineas 13 al 26: donde se realiza la configuración y pesos de YoloV3 con la ayuda del modulo "dnn" de openCV. El archivo coconames contiene los nombres de distintos objetos que se han entrenado para deteccion de objetos... Luego se almacena en "classNames".  y así como "net" se basa en usar librerías para para capas de calculo de salida, cargar y procesar qyue ya fueron implementados y más información se encuentra en Internet.
-
-
-![image](https://user-images.githubusercontent.com/62358739/115599752-90573200-a2a1-11eb-84f8-86e12ba0e09a.png)
