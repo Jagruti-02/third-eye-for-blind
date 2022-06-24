@@ -61,8 +61,7 @@ image.png
 image.png
 
 Hardware circuit demonstration
-image.png
-image.png
+![circuit](https://user-images.githubusercontent.com/77969198/175666162-b4dd3cb9-cd85-4472-ab5f-cfe98e477990.jpeg)
 
 # Drive link for working demonstration
 
