@@ -12,8 +12,8 @@ In this gadget, the distance of the snag is dictated by utilizing an Ultrasonic 
 
 # Components required
 
-• Arduino UNO
-• ESP 32 cam module
+• Arduino UNO__
+• ESP 32 cam module__
 • HC-SR04 Ultrasonic sensor
 • Vibrating Motor
 • Buzzer
