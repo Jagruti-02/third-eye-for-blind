@@ -24,7 +24,7 @@ In this gadget, the distance of the snag is dictated by utilizing an Ultrasonic 
 
 # Working
 
-image.png
+![working](https://user-images.githubusercontent.com/77969198/175667053-7d0a8bf3-f1fa-484d-987c-d85c2780e679.png)
 
 Arduino UNO is being programmed with ESP-32 Cam module (programmed using python OpenCV), HC-SR04 ultrasonic sensor, vibrating motor, RGB LED, and buzzer. At the end, after all the connections are done to the Arduino board upload the code to Arduino board and power the other modules using a power bank or the power supply. The Ultrasonic sensor here used as a transceiver. The ultrasonic waves are emitted by the transmitter when the objects are detected. Both the transmitter and receiver re resent inside the ultrasonic sensor.
 
@@ -46,7 +46,7 @@ The RGB LED will change from green (safer distance) to blue and when the obstacl
 
 # Software Implementation
 
-image.png
+![tinkercad](https://user-images.githubusercontent.com/77969198/175667100-71fed583-abe6-4894-a07d-0d152c2201da.png)
 
 Link for Tinkercad Simulation:
 
@@ -57,11 +57,15 @@ OpenCV is then used for object detection and localization through a small camera
 # Results and Discussion
 
 Snaps of object detection
-image.png
-image.png
+![snap1](https://user-images.githubusercontent.com/77969198/175667141-7634105d-b4a4-4e5b-84d6-fb985a5ea8c3.png)
+
+![snap2](https://user-images.githubusercontent.com/77969198/175667176-a6697d47-2712-46b5-b840-03157bfe7c88.png)
 
 Hardware circuit demonstration
 ![circuit](https://user-images.githubusercontent.com/77969198/175666162-b4dd3cb9-cd85-4472-ab5f-cfe98e477990.jpeg)
+
+![circuit2](https://user-images.githubusercontent.com/77969198/175666289-595a002e-60ce-4c4a-8748-4b79b5d793ea.jpeg)
+
 
 # Drive link for working demonstration
 
