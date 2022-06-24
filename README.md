@@ -57,11 +57,13 @@ OpenCV is then used for object detection and localization through a small camera
 # Results and Discussion
 
 Snaps of object detection
+
 ![snap1](https://user-images.githubusercontent.com/77969198/175667141-7634105d-b4a4-4e5b-84d6-fb985a5ea8c3.png)
 
 ![snap2](https://user-images.githubusercontent.com/77969198/175667176-a6697d47-2712-46b5-b840-03157bfe7c88.png)
 
 Hardware circuit demonstration
+
 ![circuit](https://user-images.githubusercontent.com/77969198/175666162-b4dd3cb9-cd85-4472-ab5f-cfe98e477990.jpeg)
 
 ![circuit2](https://user-images.githubusercontent.com/77969198/175666289-595a002e-60ce-4c4a-8748-4b79b5d793ea.jpeg)
